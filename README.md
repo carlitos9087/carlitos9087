@@ -5,12 +5,17 @@
 
 # 💫 About Me:
 
+<br/>
+👋 Olá! Sou Carlos Eduardo, estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia. Tenho experiência em desenvolvimento de software, análise de dados e automação. Atualmente, estou envolvido em um projeto de iniciação científica na área de bioinformática.
+<br/>
+<br/>
 
-* 👋 Hi, I’m @carlitos9087<br>
-* 🌱 Currently learning<br>
-* 😎 Back-end<br>
-* 🇧🇷 Brazilian<br>
-* 📓 student
+- 🌱 Estou sempre buscando aprender novas tecnologias e expandir minhas habilidades.
+- 📓 Com um interesse especial por desenvolvimento de software e análise de dados.
+- 😎 Aqui você encontrará alguns dos meus projetos e contribuições, incluindo desenvolvimento, automação e soluções criativas para problemas técnicos.
+- 🤓 De uma olhada em meu portfólio: https://carlitos9087.github.io/
+
+Estou sempre buscando aprender novas tecnologias e expandir minhas habilidades, com um interesse especial por desenvolvimento de software e análise de dados. Aqui você encontrará alguns dos meus projetos e contribuições, incluindo desenvolvimento em Python, automação e soluções criativas para problemas técnicos.
 <br/>
 
 ## 📊 GitHub Stats:
