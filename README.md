@@ -13,7 +13,7 @@
 - 🌱 Estou sempre buscando aprender novas tecnologias e expandir minhas habilidades.
 - 📓 Com um interesse especial por desenvolvimento de software e análise de dados.
 - 😎 Aqui você encontrará alguns dos meus projetos e contribuições, incluindo desenvolvimento, automação e soluções criativas para problemas técnicos.
-- 🤓 De uma olhada em meu portfólio: https://carlitos9087.github.io/
+- 🤓 De uma olhada em meu portfólio: [https://carlistosdev.netlify.app/](https://carlistosdev.netlify.app/)
 
 Estou sempre buscando aprender novas tecnologias e expandir minhas habilidades, com um interesse especial por desenvolvimento de software e análise de dados. Aqui você encontrará alguns dos meus projetos e contribuições, incluindo desenvolvimento em Python, automação e soluções criativas para problemas técnicos.
 <br/>
